@@ -1,0 +1,10 @@
+BatchCraft Freeware License
+Copyright (c) 2026 Nikon Oonjun. All rights reserved.
+
+Permission is granted to download, install, and use an unmodified official binary copy of BatchCraft free of charge for personal or business use.
+
+No permission is granted to sell, rent, sublicense, modify, reverse engineer, decompile, disassemble, repackage, rebrand, impersonate the developer, or redistribute the software from an unofficial download location, except where such restriction is prohibited by applicable law. Linking to the official GitHub Releases download page is permitted.
+
+This repository contains no application source code. This license grants no rights to the BatchCraft source code, name, logo, artwork, or other intellectual property except the limited right to use the unmodified software described above.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
